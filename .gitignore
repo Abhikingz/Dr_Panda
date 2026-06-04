@@ -1,0 +1,18 @@
+# Ignore massive medical conversation datasets and smaller CSVs
+ai-medical-chatbot.csv
+*.csv
+Gynic/
+Cardio/
+
+# Ignore all large archive/zip files
+*.zip
+
+# Ignore the heavy deep learning BERT vector cache files
+bert_embeddings_cache.npy
+*.npy
+
+# Ignore local Jupyter Notebook checkpoints, PDFs, and system logs
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pdf
