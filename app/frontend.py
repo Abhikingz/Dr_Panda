@@ -1,9 +1,9 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="Dr. Panda AI Diagnostic Assistant", page_icon="🩺", layout="centered")
+st.set_page_config(page_title="Dr. Panda AI Diagnostic Assistant", page_icon="", layout="centered")
 
-st.title("🩺 Dr. Panda: Healthcare Diagnostic Assistant")
+st.title(" Dr. Panda: Healthcare Diagnostic Assistant")
 st.write("Enter patient symptoms below to receive rapid AI assisted condition screening and recommendations.")
 
 query = st.text_area("Patient Symptoms / Query", placeholder="e.g. sharp headache with nausea and light sensitivity...")
