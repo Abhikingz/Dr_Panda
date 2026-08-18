@@ -1,0 +1,6 @@
+query,condition,recommendation,source_dataset
+persistent cough shortness of breath fever chest discomfort,Acute Bronchitis,Consult a physician for a chest evaluation. Rest and stay hydrated.,Kaggle Medical Question Answering
+sharp headache nausea light sensitivity vision blurring,Migraine Headache,Rest in a dark quiet room. Hydrate and consider pain relief.,Kaggle Medical Question Answering
+abdominal pain bloating nausea diarrhea fever after eating,Gastroenteritis,Maintain electrolyte balance with fluid replacement.,Kaggle Medical Question Answering
+joint stiffness swelling fatigue low grade fever morning tightness,Inflammatory Arthritis,Schedule an appointment with a rheumatologist.,Kaggle Medical Question Answering
+frequent urination excessive thirst unexplained weight loss fatigue,Elevated Blood Glucose,Consult a practitioner for HbA1c testing.,Kaggle Medical Question Answering
